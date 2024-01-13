@@ -1,11 +1,5 @@
 # 基于SSM的运动会管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**运动会** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于SSM的运动会管理系统有两种角色
@@ -13,6 +7,11 @@
 管理员：用户管理、通知管理、参赛管理、运动员管理、比赛类别管理、赛程管理、比赛安排管理、成绩管理等
 
 运动员：登录注册、参加比赛、各种信息的查询
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**运动会**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 
 ## 2、项目技术
@@ -35,41 +34,33 @@
 
 ### 4.1 登录注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101027033.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208101027033.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101027815.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202208101027815.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028901.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208101028901.jpg)
 
-![管理员-通知管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028107.jpg)
+![管理员-通知管理](https://www.codeshop.fun/Typora-Images/202208101028107.jpg)
 
-![管理员-参赛管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028786.jpg)
+![管理员-参赛管理](https://www.codeshop.fun/Typora-Images/202208101028786.jpg)
 
-![管理员-运动员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028845.jpg)
+![管理员-运动员管理](https://www.codeshop.fun/Typora-Images/202208101028845.jpg)
 
-![管理员-比赛类别管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028739.jpg)
+![管理员-比赛类别管理](https://www.codeshop.fun/Typora-Images/202208101028739.jpg)
 
-![管理员-比赛赛程管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028881.jpg)
+![管理员-比赛赛程管理](https://www.codeshop.fun/Typora-Images/202208101028881.jpg)
 
-![管理员-比赛安排管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028677.jpg)
+![管理员-比赛安排管理](https://www.codeshop.fun/Typora-Images/202208101028677.jpg)
 
-![管理员-成绩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028428.jpg)
+![管理员-成绩管理](https://www.codeshop.fun/Typora-Images/202208101028428.jpg)
 
 ### 4.3运动员 模块
 
-![用户-参加比赛](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028514.jpg)
+![用户-参加比赛](https://www.codeshop.fun/Typora-Images/202208101028514.jpg)
 
-![用户-比赛安排](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028813.jpg)
+![用户-比赛安排](https://www.codeshop.fun/Typora-Images/202208101028813.jpg)
 
-![用户功能列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028146.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**运动会** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![用户功能列表](https://www.codeshop.fun/Typora-Images/202208101028146.jpg)
 
